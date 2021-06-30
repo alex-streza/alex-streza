@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello Friend 👋
+I am a frontend software developer / designer
+- 🔭 Working on multiple projects mainly using React/NextJS but open to anything
+- 🌱 Learning security appliances for web dev through a Master's degree
+- 🤖 Looking into IOT stuff as hobby (robot revolution)
+<br>
 
-<!--
-**alex-streza/alex-streza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me
 
-Here are some ideas to get you started:
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandru-streza-7a4254155)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@astre999)
+[<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-6700ee?logo=google%20chrome&logoColor=white&style=for-the-badge" />](https://www.alexstreza.dev/)
+[<img align="left" alt="dribbble" src="https://img.shields.io/badge/dribbble-%231877F2.svg?&style=for-the-badge&logo=dribbble&logoColor=white" />](https://dribbble.com/snappy_guy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+## Tech Stacks
+
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="next.js" src="https://img.shields.io/badge/next.js%20-%23111111.svg?&style=for-the-badge&logo=next.js" />
+<img align="left" alt="storybook" src="https://img.shields.io/badge/storybook%20-%23dd1367.svg?&style=for-the-badge&logo=storybook&logoColor=white" />
+<img align="left" alt="figma" src="https://img.shields.io/badge/figma%20-%231ABCFE.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="express" src="https://img.shields.io/badge/express-%23259dff.svg?&style=for-the-badge&logo=express&logoColor=white" />
+<img align="left" alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<br>
+<br>
