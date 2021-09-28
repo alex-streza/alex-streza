@@ -2,7 +2,7 @@
 I am a frontend software developer / designer
 - 🔭 Working on multiple projects mainly using React/NextJS but open to anything
 - 🌱 Learning security appliances for web dev through a Master's degree
-- 🤖 Looking into IOT stuff as hobby (robot revolution)
+- 🤖 Looking into Crypto & NFTs
 <br>
 
 ## Connect with me
