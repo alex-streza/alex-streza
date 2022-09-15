@@ -1,7 +1,7 @@
 ## Hello Friend 👋
 I am a frontend software developer / designer
-- 🔭 Working on multiple projects mainly using React/NextJS but open to anything
-- 🌱 Learning security appliances for web dev through a Master's degree
+- 🔭 Working on multiple projects mainly using React/NextJS
+- 🌱 Learning anything I stumble upon
 - 🤖 Looking into 3D Art & Crypto & NFTs
 <br>
 
