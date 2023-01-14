@@ -21,7 +21,6 @@ I am a product engineer / designer
 <img align="left" alt="next.js" src="https://img.shields.io/badge/next.js%20-%23111111.svg?&style=for-the-badge&logo=next.js" />
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma%20-%231ABCFE.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 <img align="left" alt="storybook" src="https://img.shields.io/badge/storybook%20-%23dd1367.svg?&style=for-the-badge&logo=storybook&logoColor=white" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="express" src="https://img.shields.io/badge/express-%23259dff.svg?&style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 
