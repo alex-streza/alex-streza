@@ -1,8 +1,5 @@
-## Hello stranger 👋
-I am a product engineer / designer
-- 🔭 Working on multiple projects mainly using React/NextJS/TypeScript
-- 🌱 Learning anything I stumble upon
-- 🤖 Passionate about 3D & Design
+## Hello there 👋
+I am a product engineer / designer currently working on multiple projects mainly using React/NextJS/TypeScript while being passionate about anything 3D & great design.
 <br>
 
 ## Connect with me
