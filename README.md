@@ -69,11 +69,11 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [wave-protocol1/maintenance](https://github.com/wave-protocol1/maintenance) - Instance for handling maintenance tasks for the Liquid Staking SC.
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
-- [BetaHuhn/deploy-to-vercel-action](https://github.com/BetaHuhn/deploy-to-vercel-action) - 🎬▲ Deploy your project to Vercel using GitHub Actions. Supports PR previews and GitHub deployments.
 
 ### Wrote some stuff 📝
 
