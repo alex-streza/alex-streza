@@ -42,8 +42,8 @@ really into 3D & great design for some unknown reason.
 
 ### Pushing cool stuff ✨
 
-- [alex-streza/portfolio](https://github.com/alex-streza/portfolio) - 
 - [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai) - A Figma plugin for integrating DALL-E-2 image generation
+- [alex-streza/portfolio](https://github.com/alex-streza/portfolio) - 
 - [alex-streza/turbo-nextjs-template](https://github.com/alex-streza/turbo-nextjs-template) - 
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [alex-streza/interviewor](https://github.com/alex-streza/interviewor) - 
@@ -58,6 +58,7 @@ really into 3D & great design for some unknown reason.
 
 ### Doing some pulls too 🤓
 
+- [Feature/new features](https://github.com/alex-streza/summon-ai/pull/9) on [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai)
 - [Feature/image storage](https://github.com/alex-streza/summon-ai/pull/7) on [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai)
 - [overhaul edit images UI &#43; add undo &amp; continue editing](https://github.com/alex-streza/summon-ai/pull/6) on [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai)
 - [Add dates plugin](https://github.com/pmndrs/leva/pull/387) on [pmndrs/leva](https://github.com/pmndrs/leva)
