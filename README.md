@@ -58,11 +58,11 @@ really into 3D & great design for some unknown reason.
 
 ### Doing some pulls too 🤓
 
+- [Feature/chat gpt integration](https://github.com/alex-streza/summon-ai/pull/10) on [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai)
 - [Feature/new features](https://github.com/alex-streza/summon-ai/pull/9) on [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai)
 - [Feature/image storage](https://github.com/alex-streza/summon-ai/pull/7) on [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai)
 - [overhaul edit images UI &#43; add undo &amp; continue editing](https://github.com/alex-streza/summon-ai/pull/6) on [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai)
 - [Add dates plugin](https://github.com/pmndrs/leva/pull/387) on [pmndrs/leva](https://github.com/pmndrs/leva)
-- [Release v1](https://github.com/alex-streza/portfolio/pull/20) on [alex-streza/portfolio](https://github.com/alex-streza/portfolio)
 
 ### Release the kraken 🦑
 
