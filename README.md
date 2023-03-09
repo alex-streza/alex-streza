@@ -70,11 +70,11 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
+- [lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
 - [Welnic/martisor](https://github.com/Welnic/martisor) - 
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [basementstudio/basement-laboratory](https://github.com/basementstudio/basement-laboratory) - We combine intensive technology with design expertise.
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
-- [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: The comprehensive toolkit for developing plugins and widgets for Figma and FigJam
 
 ### Wrote some stuff 📝
 
