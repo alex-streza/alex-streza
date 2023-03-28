@@ -70,11 +70,11 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
+- [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
 - [Welnic/martisor](https://github.com/Welnic/martisor) - 
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
-- [basementstudio/basement-laboratory](https://github.com/basementstudio/basement-laboratory) - We combine intensive technology with design expertise.
 
 ### Wrote some stuff 📝
 
