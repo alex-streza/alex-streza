@@ -42,19 +42,19 @@ really into 3D & great design for some unknown reason.
 
 ### Pushing cool stuff ✨
 
+- [alex-streza/blurr](https://github.com/alex-streza/blurr) - 
 - [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai) - A Figma plugin for integrating DALL-E-2 image generation
 - [alex-streza/portfolio](https://github.com/alex-streza/portfolio) - 
 - [alex-streza/turbo-nextjs-template](https://github.com/alex-streza/turbo-nextjs-template) - 
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
-- [alex-streza/interviewor](https://github.com/alex-streza/interviewor) - 
 
 ### Wild side-projects 🤪
 
+- [alex-streza/blurr](https://github.com/alex-streza/blurr) - 
 - [alex-streza/turbo-nextjs-template](https://github.com/alex-streza/turbo-nextjs-template) - 
 - [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai) - A Figma plugin for integrating DALL-E-2 image generation
 - [alex-streza/interviewor](https://github.com/alex-streza/interviewor) - 
 - [alex-streza/portfolio](https://github.com/alex-streza/portfolio) - 
-- [alex-streza/snowfox-ui-alpha](https://github.com/alex-streza/snowfox-ui-alpha) - 
 
 ### Doing some pulls too 🤓
 
