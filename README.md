@@ -70,11 +70,11 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
-- [Welnic/martisor](https://github.com/Welnic/martisor) - 
 
 ### Wrote some stuff 📝
 
