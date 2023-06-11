@@ -66,7 +66,7 @@ really into 3D & great design for some unknown reason.
 
 ### Release the kraken 🦑
 
-- [pmndrs/leva](https://github.com/pmndrs/leva) [`@leva-ui/plugin-dates@0.9.32`](https://github.com/pmndrs/leva/releases/tag/%40leva-ui/plugin-dates%400.9.32) - 🌋 React-first components GUI
+- [pmndrs/leva](https://github.com/pmndrs/leva) [`leva@0.9.35`](https://github.com/pmndrs/leva/releases/tag/leva%400.9.35) - 🌋 React-first components GUI
 
 ### Starry night 🌟
 
