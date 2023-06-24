@@ -71,7 +71,7 @@ really into 3D & great design for some unknown reason.
 ### Starry night 🌟
 
 - [zama-ai/concrete-ml](https://github.com/zama-ai/concrete-ml) - Concrete ML: Privacy Preserving ML framework built on top of Concrete, with bindings to traditional ML frameworks.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api&#39;s...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [cirediatpl/FigmaChain](https://github.com/cirediatpl/FigmaChain) - FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI&#39;s GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
