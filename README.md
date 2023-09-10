@@ -50,11 +50,11 @@ really into 3D & great design for some unknown reason.
 
 ### Wild side-projects 🤪
 
+- [alex-streza/gallery-examples](https://github.com/alex-streza/gallery-examples) - 
 - [alex-streza/witas](https://github.com/alex-streza/witas) - wait is that a sticker?
 - [alex-streza/ai-scripts](https://github.com/alex-streza/ai-scripts) - 
 - [alex-streza/blurr](https://github.com/alex-streza/blurr) - 
 - [alex-streza/turbo-nextjs-template](https://github.com/alex-streza/turbo-nextjs-template) - 
-- [alex-streza/summon-ai](https://github.com/alex-streza/summon-ai) - A Figma plugin for integrating DALL-E-2 image generation
 
 ### Doing some pulls too 🤓
 
