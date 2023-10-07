@@ -70,11 +70,11 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-- [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
-- [zama-ai/concrete-ml](https://github.com/zama-ai/concrete-ml) - Concrete ML: Privacy Preserving ML framework built on top of Concrete, with bindings to traditional ML frameworks.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [cirediatpl/FigmaChain](https://github.com/cirediatpl/FigmaChain) - FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI&#39;s GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
+- [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 
 ### Wrote some stuff 📝
 
