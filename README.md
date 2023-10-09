@@ -70,11 +70,11 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
+- [Welnic/supasearch](https://github.com/Welnic/supasearch) - 
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 
 ### Wrote some stuff 📝
 
