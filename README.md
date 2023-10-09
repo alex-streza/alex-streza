@@ -70,7 +70,7 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
-- [Welnic/supasearch](https://github.com/Welnic/supasearch) - 
+- [Welnic/supasearch](https://github.com/Welnic/supasearch) - Image Search Engine made simple with Streamlit, Supabase, pgvector, and OpenAI Clip
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
