@@ -42,19 +42,19 @@ really into 3D & great design for some unknown reason.
 
 ### Pushing cool stuff ✨
 
+- [alex-streza/use-browser-notifications](https://github.com/alex-streza/use-browser-notifications) - React friendly utility hook to trigger browser notifications.
 - [alex-streza/gallery-examples](https://github.com/alex-streza/gallery-examples) - 
 - [alex-streza/witas](https://github.com/alex-streza/witas) - wait is that a sticker?
 - [alex-streza/ai-scripts](https://github.com/alex-streza/ai-scripts) - 
 - [alex-streza/portfolio](https://github.com/alex-streza/portfolio) - 
-- [alex-streza/blurr](https://github.com/alex-streza/blurr) - 
 
 ### Wild side-projects 🤪
 
+- [alex-streza/use-browser-notifications](https://github.com/alex-streza/use-browser-notifications) - React friendly utility hook to trigger browser notifications.
 - [alex-streza/gallery-examples](https://github.com/alex-streza/gallery-examples) - 
 - [alex-streza/witas](https://github.com/alex-streza/witas) - wait is that a sticker?
 - [alex-streza/ai-scripts](https://github.com/alex-streza/ai-scripts) - 
 - [alex-streza/blurr](https://github.com/alex-streza/blurr) - 
-- [alex-streza/turbo-nextjs-template](https://github.com/alex-streza/turbo-nextjs-template) - 
 
 ### Doing some pulls too 🤓
 
