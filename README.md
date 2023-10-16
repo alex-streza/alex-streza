@@ -66,6 +66,7 @@ really into 3D & great design for some unknown reason.
 
 ### Release the kraken 🦑
 
+- [alex-streza/use-browser-notifications](https://github.com/alex-streza/use-browser-notifications) [`v1.0.4`](https://github.com/alex-streza/use-browser-notifications/releases/tag/v1.0.4) - React friendly utility hook to trigger browser notifications
 - [pmndrs/leva](https://github.com/pmndrs/leva) [`leva@0.9.35`](https://github.com/pmndrs/leva/releases/tag/leva%400.9.35) - 🌋 React-first components GUI
 
 ### Starry night 🌟
