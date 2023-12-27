@@ -3,6 +3,9 @@
 I am a product engineer / designer currently working on multiple projects mainly using React/NextJS/TypeScript. I'm also
 really into 3D & great design for some unknown reason.
 
+✅ Currently working as a Product Engineer on @ [morrow](https://www.morrow.to/alex)
+✅ Founder @ [Snow Fox](https://www.snowfox.art)
+
 ## What I use 👻
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
