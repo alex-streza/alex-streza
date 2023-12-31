@@ -73,11 +73,11 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
+- [jordienr/jordienric.com](https://github.com/jordienr/jordienric.com) - 
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [skirianov/talk-to-issues](https://github.com/skirianov/talk-to-issues) - 
-- [Welnic/supasearch](https://github.com/Welnic/supasearch) - Image Search Engine made simple with Streamlit, Supabase, pgvector, and OpenAI Clip
 
 ### Wrote some stuff 📝
 
