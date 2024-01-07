@@ -53,11 +53,11 @@ really into 3D & great design for some unknown reason.
 
 ### Wild side-projects 🤪
 
+- [alex-streza/figmail](https://github.com/alex-streza/figmail) - Plugin that converts Figma design into React Email
 - [alex-streza/weitlist-app](https://github.com/alex-streza/weitlist-app) - building a waitlist you&#39;d want to join
 - [alex-streza/weitlist](https://github.com/alex-streza/weitlist) - 
 - [alex-streza/use-browser-notifications](https://github.com/alex-streza/use-browser-notifications) - React friendly utility hook to trigger browser notifications
 - [alex-streza/gallery-examples](https://github.com/alex-streza/gallery-examples) - 
-- [alex-streza/witas](https://github.com/alex-streza/witas) - wait is that a sticker?
 
 ### Doing some pulls too 🤓
 
