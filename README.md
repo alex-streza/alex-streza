@@ -73,11 +73,11 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
+- [wceolin/global-hiring](https://github.com/wceolin/global-hiring) - A list of companies hiring globally.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [jordienr/jordienric.com](https://github.com/jordienr/jordienric.com) - 
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 
 ### Wrote some stuff 📝
 
