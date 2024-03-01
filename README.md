@@ -73,7 +73,7 @@ really into 3D & great design for some unknown reason.
 
 ### Starry night 🌟
 
-- [pmndrs/uikit](https://github.com/pmndrs/uikit) - 📱 user interfaces for react-three-fiber
+- [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [grubersjoe/react-activity-calendar](https://github.com/grubersjoe/react-activity-calendar) - A flexible React component to display activity data in a calendar (heatmap).
