@@ -45,7 +45,7 @@ really into 3D & great design for some unknown reason.
 
 ### Pushing cool stuff ✨
 
-- [alex-streza/appli](https://github.com/alex-streza/appli) - 
+- [alex-streza/appli](https://github.com/alex-streza/appli) - Appli is the first open-source, tech job application platform, employee/interviewee focused.
 - [alex-streza/figmail](https://github.com/alex-streza/figmail) - Plugin that converts Figma design into React Email
 - [alex-streza/weitlist-app](https://github.com/alex-streza/weitlist-app) - building a waitlist you&#39;d want to join
 - [alex-streza/weitlist](https://github.com/alex-streza/weitlist) - 
@@ -53,7 +53,7 @@ really into 3D & great design for some unknown reason.
 
 ### Wild side-projects 🤪
 
-- [alex-streza/appli](https://github.com/alex-streza/appli) - 
+- [alex-streza/appli](https://github.com/alex-streza/appli) - Appli is the first open-source, tech job application platform, employee/interviewee focused.
 - [alex-streza/figmail](https://github.com/alex-streza/figmail) - Plugin that converts Figma design into React Email
 - [alex-streza/weitlist-app](https://github.com/alex-streza/weitlist-app) - building a waitlist you&#39;d want to join
 - [alex-streza/weitlist](https://github.com/alex-streza/weitlist) - 
