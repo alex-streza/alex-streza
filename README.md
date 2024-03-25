@@ -45,19 +45,19 @@ really into 3D & great design for some unknown reason.
 
 ### Pushing cool stuff ✨
 
+- [alex-streza/pdf-grid](https://github.com/alex-streza/pdf-grid) - 
 - [alex-streza/appli](https://github.com/alex-streza/appli) - Appli is the first open-source, tech job application platform, employee/interviewee focused.
 - [alex-streza/figmail](https://github.com/alex-streza/figmail) - Plugin that converts Figma design into React Email
 - [alex-streza/weitlist-app](https://github.com/alex-streza/weitlist-app) - building a waitlist you&#39;d want to join
 - [alex-streza/weitlist](https://github.com/alex-streza/weitlist) - 
-- [alex-streza/portfolio](https://github.com/alex-streza/portfolio) - 
 
 ### Wild side-projects 🤪
 
+- [alex-streza/pdf-grid](https://github.com/alex-streza/pdf-grid) - 
 - [alex-streza/appli](https://github.com/alex-streza/appli) - Appli is the first open-source, tech job application platform, employee/interviewee focused.
 - [alex-streza/figmail](https://github.com/alex-streza/figmail) - Plugin that converts Figma design into React Email
 - [alex-streza/weitlist-app](https://github.com/alex-streza/weitlist-app) - building a waitlist you&#39;d want to join
 - [alex-streza/weitlist](https://github.com/alex-streza/weitlist) - 
-- [alex-streza/use-browser-notifications](https://github.com/alex-streza/use-browser-notifications) - React friendly utility hook to trigger browser notifications
 
 ### Doing some pulls too 🤓
 
