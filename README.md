@@ -3,7 +3,7 @@
 I am a product engineer / designer currently working on multiple projects mainly using React/NextJS/TypeScript. I'm also
 really into 3D & great design for some unknown reason.
 
-✅ Currently working as a Product Engineer on @ [morrow](https://www.morrow.to/alex)
+✅ Currently building  @[niblu](https://www.nib.lu?ref=alex)
 ✅ Founder @ [Snow Fox](https://www.snowfox.art)
 
 ## What I use 👻
